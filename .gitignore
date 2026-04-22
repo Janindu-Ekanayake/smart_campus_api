@@ -1,0 +1,6 @@
+# Maven compiled output
+target/
+*.war
+*.jar
+
+
